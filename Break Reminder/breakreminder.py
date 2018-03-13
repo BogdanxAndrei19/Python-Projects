@@ -1,3 +1,4 @@
+##code that opens an URL at a given interval
 import time
 import webbrowser
 
