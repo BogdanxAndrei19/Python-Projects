@@ -3,12 +3,19 @@
 A repository for multiple python projects.
 
 ## Break Reminder
+
 ## Dice Roller
-## Movie Site
-## Testosu'
-## KeyLogger Advanced
-## KeyMAIL
-## Random Name Generator
+
 ## Image Sorter
+
+## KeyLogger Advanced
+
+## KeyMAIL
+
+## Movie Site
+
 ## Profanity Checker
 
+## Random Name Generator
+
+## Testosu'
