@@ -10,6 +10,10 @@ A repository for multiple python projects.
 
 ## KeyLogger Advanced
 
+## KeyLogger Basic PLUS
+
+## KeyLogger Basic
+
 ## KeyMAIL 1.0
 
 ## Movie Site
