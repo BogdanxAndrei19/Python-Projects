@@ -6,6 +6,8 @@ A repository for multiple python projects.
 
 ## Dice Roller
 
+## Higher Lower Game
+
 ## Image Sorter
 
 ## KeyLogger Advanced
