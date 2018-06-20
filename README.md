@@ -6,6 +6,8 @@ A repository for multiple python projects.
 
 ## Dice Roller
 
+## Heads or Tails
+
 ## Higher Lower Game
 
 ## Image Sorter
@@ -23,5 +25,7 @@ A repository for multiple python projects.
 ## Profanity Checker
 
 ## Random Name Generator
+
+## Temperature Converter
 
 ## Testosu'
