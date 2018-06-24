@@ -1,3 +1,8 @@
+## clearly not my most efficient script
+## to many if instructions
+## some miscalculations may occur in special cases
+## takes into account leap years and the length of every month
+
 import datetime
 
 months_length=[0,31,28,31,30,31,30,31,31,30,31,30,31] ##the 1st month is on the 1st position
